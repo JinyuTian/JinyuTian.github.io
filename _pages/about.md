@@ -44,9 +44,9 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 # 📝 PUBLICATIONS 
 **2025** (Accept)
 
-Y. Y. Tian, and **J. Y. Tian***, "Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models", AAAI. (CCF A)
+Y. Y. Tian, and **J. Y. Tian***, "Data-Free Universal Attack by Exploiting the Intrinsic Vulnerability of Deep Models", AAAI. (CCF A)
 
-L. Zheng, L. B. Xie, J. T. Zhou, X. T. Wang, H. W. Wu, **J. Y. Tian**, "Data-Free Universal Attack by Exploiting the Intrinsic Vulnerability of Deep Models", AAAI. (CCF A)
+L. Zheng, L. B. Xie, J. T. Zhou, X. T. Wang, H. W. Wu, **J. Y. Tian**, "Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models", AAAI. (CCF A)
 
 **2024**
 
