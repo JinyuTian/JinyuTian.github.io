@@ -43,6 +43,7 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 
 # 📝 PUBLICATIONS 
 **2025** 
+
 T. T. Wang, K. Fang, J. J. Cai, L. Wang, **J. Y. Tian***, H. L. Feng, J. Q. Li, M. Guizani, W. Wang, "Security within Security: Attack Detection Model with Defenses Against Attacks Capability for Zero-trust Networks", IEEE Journal on Selected Areas in Communications. (JCR Q1)
 
 Y. Y. Tian, and **J. Y. Tian***, "Data-Free Universal Attack by Exploiting the Intrinsic Vulnerability of Deep Models", AAAI. (CCF A)
