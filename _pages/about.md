@@ -45,6 +45,7 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 
 # 📝 PUBLICATIONS 
 **2025** 
+
 Binze Wang, **Jinyu Tian***, Xingrun Wang, Xiaochen Yuan, Jianqing Li, "Reversible Unlearnable Examples: Towards the Copyright Protection in Deep Learning Era", IEEE Transactions on Circuits and Systems for Video Technology. (JCR Q1)
 
 T. T. Wang, K. Fang, **J. Y. Tian***, H. L. Feng, M. M. Dabel, A. L. Bashir, W. Wang, “AI-Backed Network Security for Connecting Air, Space, and Ground”, IEEE Wireless Communications. (JCR Q1)
