@@ -53,6 +53,8 @@ T. T. Wang, K. Fang, J. J. Cai, L. Wang, **J. Y. Tian***, H. L. Feng, J. Q. Li, 
 
 Y. Xiang, K. Q. Zhao, Z. H. Yu, X. C. Yuan, G. H. Huang, **J. Y. Tian**, J. Q. Li, “DFFormer: Capturing Dynamic Frequency Features to Locate Image Manipulation through Adaptive Frequency Transformer and Prototype Learning“, IEEE Transactions on Circuits and Systems for Video Technology. (JCR Q1)
 
+F. P. Li, K. M. Li, H. Wu, **J. Y. Tian**, J. T. Zhou, Towards Robust Learning via Core Feature-aware Adversarial Training, IEEE Transactions on Information Forensics and Security. (JCR Q1, CCF A)
+
 Y. Y. Tian, and **J. Y. Tian***, "Data-Free Universal Attack by Exploiting the Intrinsic Vulnerability of Deep Models", AAAI. (CCF A)
 
 L. Zheng, L. B. Xie, J. T. Zhou, X. T. Wang, H. W. Wu, **J. Y. Tian**, "Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models", AAAI. (CCF A)
