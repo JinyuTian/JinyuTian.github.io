@@ -56,13 +56,13 @@ Q. X. Xu, L. Zhou, F. F. Zhang, **J. Y. Tian**, R. B. Huang, "OAD-Promoter: Enha
 
 Y. Y. Tian, and **J. Y. Tian***, "Data-Free Universal Attack by Exploiting the Intrinsic Vulnerability of Deep Models", AAAI. (CCF A)
 
-Binze Wang, **Jinyu Tian***, Xingrun Wang, Xiaochen Yuan, Jianqing Li, "Reversible Unlearnable Examples: Towards the Copyright Protection in Deep Learning Era", IEEE Transactions on Circuits and Systems for Video Technology. (JCR Q1)
+Binze Wang, **Jinyu Tian***, Xingrun Wang, Xiaochen Yuan, Jianqing Li, "Reversible Unlearnable Examples: Towards the Copyright Protection in Deep Learning Era", IEEE Transactions on Circuits and Systems for Video Technology. (JCR Q1, CCF B)
 
 T. T. Wang, K. Fang, **J. Y. Tian***, H. L. Feng, M. M. Dabel, A. L. Bashir, W. Wang, “AI-Backed Network Security for Connecting Air, Space, and Ground”, IEEE Wireless Communications. (JCR Q1)
 
-T. T. Wang, K. Fang, J. J. Cai, L. Wang, **J. Y. Tian***, H. L. Feng, J. Q. Li, M. Guizani, W. Wang, "Security within Security: Attack Detection Model with Defenses Against Attacks Capability for Zero-trust Networks", IEEE Journal on Selected Areas in Communications. (JCR Q1)
+T. T. Wang, K. Fang, J. J. Cai, L. Wang, **J. Y. Tian***, H. L. Feng, J. Q. Li, M. Guizani, W. Wang, "Security within Security: Attack Detection Model with Defenses Against Attacks Capability for Zero-trust Networks", IEEE Journal on Selected Areas in Communications. (JCR Q1, CCF A)
 
-Y. Xiang, K. Q. Zhao, Z. H. Yu, X. C. Yuan, G. H. Huang, **J. Y. Tian**, J. Q. Li, “DFFormer: Capturing Dynamic Frequency Features to Locate Image Manipulation through Adaptive Frequency Transformer and Prototype Learning“, IEEE Transactions on Circuits and Systems for Video Technology. (JCR Q1)
+Y. Xiang, K. Q. Zhao, Z. H. Yu, X. C. Yuan, G. H. Huang, **J. Y. Tian**, J. Q. Li, “DFFormer: Capturing Dynamic Frequency Features to Locate Image Manipulation through Adaptive Frequency Transformer and Prototype Learning“, IEEE Transactions on Circuits and Systems for Video Technology. (JCR Q1, CCF B)
 
 F. P. Li, K. M. Li, H. Wu, **J. Y. Tian**, J. T. Zhou, Towards Robust Learning via Core Feature-aware Adversarial Training, IEEE Transactions on Information Forensics and Security. (JCR Q1, CCF A)
 
@@ -74,7 +74,7 @@ L. Zheng, L. B. Xie, J. T. Zhou, X. T. Wang, H. W. Wu, **J. Y. Tian**, "Anti-Dif
 
 F. P. Li, K. M. Li, H. W. Wu, **J. Y. Tian**, J. T. Zhou, "DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain", NeruIPS. (CCF A)
 
-T. T. Wang, **J. Y. Tian***, K. Fang, T. R.Gadekallu, W. Wang, "AI and Digital Twin for Consumer Electronics in Smart Cities", IEEE Consumer Electronics Magazine. (JCR Q2)
+T. T. Wang, **J. Y. Tian***, K. Fang, T. R.Gadekallu, W. Wang, "AI and Digital Twin for Consumer Electronics in Smart Cities", IEEE Consumer Electronics Magazine. (JCR Q1)
 
 Y. Wu, **J. Y. Tian***, H. J. Liu, Y. Y. Tang, “A dense video caption dataset of student classroom behaviors and a baseline model with boundary semantic awareness”, Displays. (JCR Q1)
 
