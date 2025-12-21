@@ -46,11 +46,13 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 2024.10: 🎉 One paper is accepted by NeruIPS 2024
 
 # 📝 PUBLICATIONS 
-**2025** 
+**2026** 
 
 Y. H. He, **J. Y. Tian***, X. W. Zheng, L. Dong, Y. M. Li, J. T. Zhou, "Deferred Poisoning: Making the Model More Vulnerable via Hessian Singularization", AAAI. (CCF A)
 
 Q. X. Xu, L. Zhou, F. F. Zhang, **J. Y. Tian**, R. B. Huang, "OAD-Promoter: Enhancing Zero-shot VQA using Large Language Models with Object Attribute Description", AAAI. (CCF A)
+
+**2025** 
 
 Y. Y. Tian, and **J. Y. Tian***, "Data-Free Universal Attack by Exploiting the Intrinsic Vulnerability of Deep Models", AAAI. (CCF A)
 
