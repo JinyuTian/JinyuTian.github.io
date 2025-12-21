@@ -37,6 +37,8 @@ Subspace Learning: Subspace Manifold Representation, Robust Subspace Learning.
 We regularly have several positions for full-scholarship and half-scholarship Ph.D. If you are interested in my research and want to join our group, please don’t hesitate to send me an email with your CV and research interests. 
 
 # 🔥 NEWS
+2025.11: 🎉 Two papers are accepted by AAAI 2026
+
 2025.10: 🎉 One papers is accepted by TCSVT
 
 2024.11: 🎉 Two papers are accepted by AAAI 2025
@@ -45,6 +47,11 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 
 # 📝 PUBLICATIONS 
 **2025** 
+Y. H. He, **J. Y. Tian***, X. W. Zheng, L. Dong, Y. M. Li, J. T. Zhou, "Deferred Poisoning: Making the Model More Vulnerable via Hessian Singularization", AAAI. (CCF A)
+
+Q. X. Xu, L. Zhou, F. F. Zhang, **J. Y. Tian**, R. B. Huang, "OAD-Promoter: Enhancing Zero-shot VQA using Large Language Models with Object Attribute Description", AAAI. (CCF A)
+
+Y. Y. Tian, and **J. Y. Tian***, "Data-Free Universal Attack by Exploiting the Intrinsic Vulnerability of Deep Models", AAAI. (CCF A)
 
 Binze Wang, **Jinyu Tian***, Xingrun Wang, Xiaochen Yuan, Jianqing Li, "Reversible Unlearnable Examples: Towards the Copyright Protection in Deep Learning Era", IEEE Transactions on Circuits and Systems for Video Technology. (JCR Q1)
 
