@@ -47,6 +47,7 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 
 # 📝 PUBLICATIONS 
 **2025** 
+
 Y. H. He, **J. Y. Tian***, X. W. Zheng, L. Dong, Y. M. Li, J. T. Zhou, "Deferred Poisoning: Making the Model More Vulnerable via Hessian Singularization", AAAI. (CCF A)
 
 Q. X. Xu, L. Zhou, F. F. Zhang, **J. Y. Tian**, R. B. Huang, "OAD-Promoter: Enhancing Zero-shot VQA using Large Language Models with Object Attribute Description", AAAI. (CCF A)
