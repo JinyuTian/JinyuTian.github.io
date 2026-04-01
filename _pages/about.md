@@ -37,6 +37,8 @@ Subspace Learning: Subspace Manifold Representation, Robust Subspace Learning.
 We regularly have several positions for full-scholarship and half-scholarship Ph.D. If you are interested in my research and want to join our group, please don’t hesitate to send me an email with your CV and research interests. 
 
 # 🔥 NEWS
+2026.04: 🎉 One paper is accepted by CVPR 2026
+
 2025.11: 🎉 Two papers are accepted by AAAI 2026
 
 2025.10: 🎉 One papers is accepted by TCSVT
