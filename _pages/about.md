@@ -164,4 +164,6 @@ A. Y. Qin, Z. W. Shang, **J. Y. Tian**, Y. L. Wang, T. P. Zhang, and Y. Y. Tang,
   – Dec. 2025.  (333K Mop)
 
 4. Guangdong Provincial Natural Science Foundation General Project, PI, “Research on Privacy Protection of Social Platforms Based on Discrete Robust Adversarial Perturbation”, Jan. 2024 – Dec. 2026.  (150K RMB)
+
+5. Macau Science and Technology Development Fund (FDCT), PI, “Research and Application of Key Technologies for Artificial Intelligence Generated Content Detection”, 0022/2026/ITP1, Jul. 2026  - Aug. 2028. (336K Mop)
   
