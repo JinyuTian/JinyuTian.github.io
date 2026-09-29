@@ -64,7 +64,7 @@ Q. X. Xu, L. Zhou, F. F. Zhang, **J. Y. Tian**, R. B. Huang, "OAD-Promoter: Enha
 
 Y. Y. Tian, and **J. Y. Tian***, "Data-Free Universal Attack by Exploiting the Intrinsic Vulnerability of Deep Models", AAAI. (CCF A)
 
-Binze Wang, **Jinyu Tian***, Xingrun Wang, Xiaochen Yuan, Jianqing Li, "Reversible Unlearnable Examples: Towards the Copyright Protection in Deep Learning Era", IEEE Transactions on Circuits and Systems for Video Technology. (JCR Q1, CCF B)
+Binze Wang, **J. Y. Tian***, Xingrun Wang, Xiaochen Yuan, Jianqing Li, "Reversible Unlearnable Examples: Towards the Copyright Protection in Deep Learning Era", IEEE Transactions on Circuits and Systems for Video Technology. (JCR Q1, CCF B)
 
 T. T. Wang, K. Fang, **J. Y. Tian***, H. L. Feng, M. M. Dabel, A. L. Bashir, W. Wang, “AI-Backed Network Security for Connecting Air, Space, and Ground”, IEEE Wireless Communications. (JCR Q1)
 
