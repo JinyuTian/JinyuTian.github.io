@@ -51,6 +51,7 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 
 # 📝 PUBLICATIONS 
 **2026** 
+
 Y. H. He, **J. Y. Tian***, "Escape the Context Manifold: Preventing DiT In-Context Editing via Conditional Flow Hijacking", NeruIPS. (CCF A)
 
 B. Z. Wang, **J. Y. Tian***, X. R Wang, J. Q. Li, "Are Well-Trained Surrogates Optimal? Rethinking the Surrogate Role with Instability for Unlearnable Examples", NeruIPS. (CCF A)
